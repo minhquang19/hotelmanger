@@ -1,0 +1,16 @@
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\bin\Debug\QL_KS.exe
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\bin\Debug\QL_KS.pdb
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\obj\Debug\QL_KS.Properties.Resources.resources
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.cache
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.CoreCompileInputs.cache
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.CopyComplete
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\bin\Debug\XanderUI.dll
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\bin\Debug\MetroFramework.dll
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\obj\Debug\QL_KS.csprojAssemblyReference.cache
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\bin\Debug\GUI.dll
+C:\Users\Minh Quang\source\repos\QL_KS\QL_KS\bin\Debug\GUI.pdb
